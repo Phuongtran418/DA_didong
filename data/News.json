@@ -1,0 +1,32 @@
+{
+	"News": [
+	{
+	"id":1,
+	"title":"Nạp tiền thời gian vàng để được nhiều phần quà ưu đãi",
+	"description":"Từ 00:30 ngày 18/11/2022 đến 23:59 ngày 24/11/2022, khi nạp tới mốc của chương trình, bạn sẽ nhận MIỄN PHÍ các vật phẩm cực kỳ hấp dẫn cùng một lượng xu giá trị!",
+	"picture":"images/nap.png",
+    "note": "Các gói nạp cộng dồn với nhau. Ví dụ: nếu nạp ngay lập tức 800 xu, bạn được quà tặng của mốc đó và toàn bộ quà tặng của các mốc trước."
+	},
+    {
+    "id":2,
+    "title":"Quy đổi xu để nhận những vật phẩm giá trị",
+    "description":"Từ 00:30 ngày 28/10/2022 đến 23:59 ngày 03/11/2022, khi quy đổi xu tới mốc tương ứng bạn sẽ được tặng thêm 80% giá trị xu, rất hấp dẫn phải không nào.",
+    "picture":"images/100rp.png",
+    "note": "Xu thưởng thêm từ hệ thống khi quy đổi sẽ không được tính vào chương trình khuyến mãi."
+    },
+    {
+    "id":3,
+    "title":"Tham gia Vòng Quay Hỏa Ảnh - Sở hữu những vật phẩm có giá trị",
+    "description":"Thời Gian Sự Kiện Sự kiện 'Vòng Quay Hỏa Ảnh' diễn ra từ 10:00 04/11/2022 đến 23:59 10/11/2022",
+    "picture":"images/VongQuay.png",
+    "note": "Sự kiện có một phần dựa trên xác suất ngẫu nhiên. Vui lòng cân nhắc trước khi tham gia."
+    },
+    {
+    "id":4,
+    "title":"Tham gia 'Hào Quang Siêu Công Nghệ' - Tích cực điểm danh, nhận quà miễn phí từ 31/08 đến 13/09",
+    "description":"Sự kiện diễn ra trong vòng 2 tuần và chia làm 2 giai đoạn. Phần thưởng của mỗi tuần riêng biệt với nhau. Tuần 1 kéo dài từ 31/08/2022 - 06/09/2022. Tuần 2 kéo dài từ 07/09/2022 - 13/09/2022. ",
+    "picture":"images/bauvat.png",
+    "note": "Phần thưởng sự kiện chỉ có hiệu lực trong thời gian sự kiện diễn ra. Vui lòng nhận phần thưởng trước khi sự kiện kết thúc."
+    }
+	]
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574307967389",
+    "project_id": "hackbrain-e3d8d",
+    "storage_bucket": "hackbrain-e3d8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574307967389:android:2f15e194d4bcbf6a644f74",
+        "android_client_info": {
+          "package_name": "com.example.app_hackbrain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574307967389-5n70llk4a15er5t7m0bijvp64luasjc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxwWr_FbO2ndEoEM7XJEQ0nNrcwdwxKhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574307967389-5n70llk4a15er5t7m0bijvp64luasjc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
